@@ -31,7 +31,7 @@ INSERT INTO address VALUES (
 
     '2008',
     'Dramam-Fantasy-Romance',
-    '2h 2m',
+    '122',
 
     'Cathrerine Hardwicke',
     'Wyck Godfrey',
@@ -54,7 +54,7 @@ INSERT INTO address VALUES (
 
     '1993',
     'Comedy-Drama-Family',
-    '1h 41m',
+    '141',
 
     'David Mickey Evans',
     'William S. Gilmore',
@@ -77,7 +77,7 @@ INSERT INTO address VALUES (
 
     '1994',
     'Action-Adventure-Thriller',
-    '1h 56m',
+    '156',
 
     'Jan de Bont',
     'Mark Gordon',
@@ -100,7 +100,7 @@ INSERT INTO address VALUES (
 
     '1985',
     'Adventure-Family',
-    '1h 54m',
+    '154',
 
     'Richard Donner',
     'Harvey Bernhard',
