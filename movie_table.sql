@@ -1,12 +1,11 @@
 /* Table structure */
-CREATE TABLE Movies_table (
+CREATE TABLE movies (
     id int primary key NOT NULL AUTO_INCREMENT,
     movie_id VARCHAR(6) NOT NULL,
 
-    name_movie VARCHAR(50),
-    name_title VARCHAR(50),
+    title VARCHAR(50),
 
-    publishyaer INT(4),
+    publish_year INT(4),
     genre VARCHAR(20),
     duration INT(4),
 
@@ -14,10 +13,10 @@ CREATE TABLE Movies_table (
     producer VARCHAR(20),
     actor VARCHAR(20),
 
-    total_revenu INT(10),
+    total_revenue bigint,
     budget INT(10),
 
-    cover_image VARCHAR(300),
+    cover_image tinytext,
     rating VARCHAR(5)
 
 );
